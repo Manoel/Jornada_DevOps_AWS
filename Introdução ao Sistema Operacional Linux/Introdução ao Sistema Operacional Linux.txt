@@ -1,0 +1,77 @@
+
+Introdução ao Sistema Operacional Linux
+
+O que é um sistema operacional
+
+O sistema operacional é um software, ou conjunto de softwares, que tem a função de administrar e gerenciar os recursos de um sistema. Esses recursos são: componentes de hardware, sistemas de arquivos, programas de terceiros, etc
+
+
+Principal função do sistema operacional
+
+Estabelecer uma interface entre o hardware e o usuário
+
+KERNEL ou núcleo do sistema operacional
+
+Resumidamente o KERNEL é a ponte entre usuário e o hardware. O kernel compõe a parte central do SO e responde por tarefas cruciais, como
+
+Estabelecer a camada de abstração de baixo nível (linguagem de máquina) com o hardware;
+Gerenciar recursos como processador, RAM, sistemas de arquivos e dispositivos de entrada e saída.
+Gerenciar processos (execução) de programas;
+Gerenciar o uso de dispositivos, memória do sistema e chamadas dos programas, definindo quais têm prioridade
+
+
+O QUE É O LINUX?
+
+O Linux é um dos sistemas operacionais mais populares, utilizado no segmento de servidores e por desenvolvedores de software
+
+O Kernel do Linux começou a ser desenvolvido por Linus Torvalds em 1991 inspirado no Unix outro sistema operacional criado nos anos 70
+
+Não é suportado por uma empresa individual, mas por uma comunidade internacional de desenvolvedores. O Kernel do Linus esta disponivel gratuitamente.
+
+É mantido pela Linux Foundation, fundação sem fins lucrativos, está é mantida por doações de grandes empresas que utilizam o Linux em seus produtos ou serviços.
+
+Não é um ambiente grafico. O ambiente grafico faz parte do sitema operacional.
+
+Posso trabalhar com ambiente grafico ou linha de comando (bash ou terminal).
+
+DISTRIBUIÇÃO
+
+Uma distribuição Linux é um pacote que consiste em um kernel Linux, mais uma seleção de aplicativos mantidos por uma empresa ou comunidade de usuarios.
+
+O objetivo de uma distribuição é otimizar o kernel e os aplicativos que rodam no sistema operacional para um determinado tipo de uso ou grupo de usuarios.
+
+
+DEBIAN - focado no usuario final (Pode ser utilizado para servidor)
+UBUNTU - focado no usuario final (grande volume de ferramentas)
+RED HAT - focado em servidores (corporativo), distribuição paga.
+FEDORA - gratuito sem suporte (da RED HAT)
+SUSE - focado em servidores (corporativo), distribuição paga.
+CENT OS - Versão de servidor (da RED HAT)
+
+Existem diferenças,pequenas mais existem.
+
+
+SISTEMAS EMBARCADOS
+
+Sisemas embarcados são uma combinação de hardware e software projetados para cumprir uma função especifica dentro de um sistema maior.
+
+Podem ser encontrados em aplicações automotivas, médicas e até militares.
+
+O Android é um sistema operacional móvel desenvolvido principalmente pelo Google.
+
+MASCOTE DO Linux
+TUX
+
+XXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXXX
+
+Diferenças entre o Linux Desktop e Linux Server
+
+
+Modelo Cliente-Servidor
+
+Estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores de um recurso ou serviço, designados como servidores, e os requerentes dos serviços, designados como clientes.
+
+
+
+
+

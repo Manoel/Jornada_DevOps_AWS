@@ -1,0 +1,162 @@
+
+Introdução ao Desenvolvimento Moderno de Software
+
+Sistemas desktop são sistemas autônomos que podem ser instalados no computador.
+
+Sistema Web, são sistemas baseados em tecnologia web, podendo ser utilizados remotamente atraves de qualquer navegador de internet.
+
+Aplicação Movel ou aplicativo móvel é um software desenvolvido para ser instalado em smartphones e/ou tablets.
+
+
+UX/UI Designer
+
+É o processo que visa melhor a satisfação ou serviço, melhorando a usabilidade, a acessibilidade e até mesmo a satisfação proporcionada na interação.
+
+Ferramentas utilizadas no UX/UI Design: Figma, Adobe XP, entre outras.
+
+
+Funções do UX/UI: Pesquisa, Prototipos, Persona, Objetivos
+
+UI Design => é o profissional responsável em criar o que o usuário irá ver e utilizar o produto.
+
+Profissional focado em cores, tipografia, microinterações e estilos.
+
+UX                       UI
+
+PESQUISA                 DESIGN
+PROTOTIPOS               TIPOGRAFIA
+PERSONAS                 CORES
+OBJETIVOS                LAYOUTS
+
+
+MODELO CLIENT-SERVIDOR
+
+O modelo cliente-servidor é uma estrutura de aplicação que distribui as tarefas e cargas de trabalho entre os fornecedores de um recurso ou serviço
+
+Desenvolvedor Front End
+
+É que programa a parte visual de um site ou aplicativo
+
+IDE
+  Um ambiente de desenvolvimento integrado (IDE) é um software para criar aplicações que combina ferramentas comuns de desenvolvimento em uma única interface gráfica do usuário (GUI).
+
+
+Framework é, de forma básica, um facilitador.
+Exemplos: Angular, Laravel e Vue
+
+Desenvolvedor Back End
+Exemplo: JAVA, PHP e C#
+
+O que é uma API?
+Acrônimo de Application Programming Interface (interface de programação de aplicativos), um intermediário de software que permite que dois aplicativos conversem entre si.
+
+
+Desenvolvedor Full Stack
+Um Desenvolvedor Full Stack é alguém que trabalha com o Back End do aplicativo, bem como o Front End
+ampla variedade de linguagens de programação.
+
+Quality Assurance (QA)
+QA geram confiança e segurança aos clientes, indicando que os seus produtos terão a qualidade esperada na etapa de implantação
+Deve ter conhecimento sobre as atividades do projeto, além de ter um perfil analítico. Ele verifica se os padrões de qualidade estão sendo atendidos e se todos os requisitos mínimos esperados no produto serão entregues. 
+
+
+Atividades e profissionais em nuvem privada
+
+1 – Segurança da Tecnologia da Informação (lógica e física)
+2 – Mão de obra especializada (software e hardware)
+3 - Infraestrutura local
+
+Nuvem Pública
+são sistemas de armazenamento de dados disponibilizados via internet
+
+Vantagens de migrar para a nuvem pública 
+
+1 – Preço (pague somente o que usar)
+2 - Facilidade de contratação, configuração e infraestrutura
+3 – Escalabilidade
+4 - Performance
+
+Profissional de Cloud Computing 
+
+O profissional cloud computing é responsável pela infraestrutura de nuvem oferecida aos clientes
+
+MOBILI
+JAVA e/ou KOTLIN
+
+IOS
+SWIFT
+
+Desenvolvimento Híbrido (web)
+
+IONIC, FLUTER, REACT NATIVE
+
+-------------------------------------------------------
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

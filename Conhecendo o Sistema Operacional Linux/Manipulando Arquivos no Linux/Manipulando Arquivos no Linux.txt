@@ -1,0 +1,36 @@
+Manipulando Arquivos no Linux
+
+Terminal Linux - Apresentação
+
+manuserver@servidormanu:~$
+
+~ este siguinifica que estamos na pasta do usuario.
+
+$ este indica que este usuario não é um superusuario, ou seja um usuario com restições, onde ele não pode istalar programas, acessar pastas etc
+
+se tiver # este será um superusuario
+
+comando clear (limpa a tela), atalho Ctrl+l 
+
+--------------------------------------------------
+
+Navegando pelo sitema de arquivos
+
+pwd --> mostra em qual diretorio você esta.
+cd --> mudar de diretorio
+cd / --> me leva para o diretorio raiz
+ls --> visualizo os arquivos do diretorio atual
+cd nomedodiretorio --> abrir um deretorio
+cores dos arquivos (azul = diretorio)
+cd .. volta um deretorio atraz
+cd ../diretorio --> volta um diretorio e entra no diretorio a seguir depois da /
+cd /var/lib para entrar no caminho do diretorio a seguir
+cd /var + a tecla tab 2x me mostra uma lista de diretorios
+cd e começar a digitar o nome do diretorio + a tecla tab, ele completa o nome do diretorio
+--------------------------------------------
+
+
+Filtrando a exibição de arquivos
+
+
+ 
