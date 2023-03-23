@@ -1,6 +1,6 @@
-## Copiando Arquivos e Manipulando Processos
+# Copiando Arquivos e Manipulando Processos
 
-# Copiando Arquivos
+## Copiando Arquivos
 	- cp <origem> <arquivo> <destino>
 	- cp /home/manuserver/arquivo-manuserver.txt /disk2/
 	- cp /home/manuserver/*.txt /disk2/ (Neste caso estamos copiando todos os arquivos com a extensão .txt)

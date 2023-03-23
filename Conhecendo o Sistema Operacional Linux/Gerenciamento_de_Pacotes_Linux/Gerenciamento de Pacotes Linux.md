@@ -1,4 +1,4 @@
-## Gerenciamento de Pacotes Linux
+# Gerenciamento de Pacotes Linux
 
 No ubuntu são dois
 

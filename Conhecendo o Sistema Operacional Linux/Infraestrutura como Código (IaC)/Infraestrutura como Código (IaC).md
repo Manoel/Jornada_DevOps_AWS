@@ -1,4 +1,4 @@
-## Infraestrutura como Código (IaC)
+# Infraestrutura como Código (IaC)
 
 Infraestrutura como código (IaC) é o gerenciamento e provisionamento da infraestrutura por meio de códigos, em vez de processos manuais.
 
